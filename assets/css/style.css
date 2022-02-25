@@ -89,7 +89,6 @@ section {
     justify-content: center;
     flex-wrap: wrap;
     background-image: url("../images/hero-bg.jpeg");
-    height: 600px;
     background-size: cover;
     background-position: center;
 }
